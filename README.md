@@ -1,4 +1,5 @@
-![sample](https://aiservice.s3-ap-northeast-1.amazonaws.com/tmp/sample3.png)
+<img src="https://aiservice.s3-ap-northeast-1.amazonaws.com/tmp/sample3.png" width="400" align="middle" />
+
 
 1. Use flutter to implement the UI of the above picture
 2. Press "add" button,  the counter will plus 1. 
