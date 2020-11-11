@@ -7,5 +7,5 @@
 4. Use stateless widget to achieve the above functions. (hint:  use provider and consumer,  or other state management libraries)
 > (step  4 is not necessary,  you can also use statefulwidget to achieve the above functions)
 
-Source code upload location:<br>
-Fork this repository,  submit the code to the forked repository.  And please send your repository URL to me.
+Source code:
+Please send the source code to my email:  p-sun@10antz.co.jp
