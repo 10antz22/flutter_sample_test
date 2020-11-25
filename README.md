@@ -8,4 +8,4 @@
 > (step  4 is not necessary,  you can also use statefulwidget to achieve the above functions)
 
 Source code:
-Please send the source code to my email:  p-sun@10antz.co.jp
+Please send the source code(dart file only) to my email:  ainanohajp@gmail.com
